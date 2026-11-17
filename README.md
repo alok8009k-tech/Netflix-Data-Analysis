@@ -28,10 +28,11 @@ This project was completed as part of a 1-month Data Analysis Internship.
 
 📂 Dataset Information
 
-- Dataset Name: Netflix Titles Dataset
-- Total Records: 8,790
-- Total Columns: 10
-- File Format: Excel (.xlsx)
+Description| Details
+Dataset Name| Netflix Titles Dataset
+Total Records| 8,790
+Total Columns| 10
+File Format| Excel (.xlsx)
 
 The dataset contains information about Netflix movies and TV shows, including title, content type, country, release year, rating, duration, and other details.
 
@@ -47,10 +48,11 @@ Task 1: Data Cleaning and Preprocessing
 
 Results:
 
-- Total Records: 8,790
-- Total Columns: 10
-- Missing Values: 0
-- Duplicate Records: 0
+Description| Count
+Total Records| 8,790
+Total Columns| 10
+Missing Values| 0
+Duplicate Records| 0
 
 Output: "Netflix_Cleaned.xlsx"
 
@@ -97,6 +99,30 @@ Key Findings:
 - Total Valid Records: 8,790
 - Unique Release Years: 74
 - Highest Content Count: 2018 (1,146 titles)
+
+📈 Data Visualizations
+
+The following charts were generated during the analysis to present the findings visually.
+
+1. Content Type Distribution – Pie Chart
+
+"Content Type Distribution" (outputs/content_type_pie_chart.png)
+
+2. Content Type Distribution – Bar Chart
+
+"Content Type Bar Chart" (outputs/content_type_bar_chart.png)
+
+3. Top 10 Countries Analysis
+
+"Top 10 Countries" (outputs/top_10_countries_chart.png)
+
+4. Release Year Trend Analysis
+
+"Release Year Trend" (outputs/year_wise_trend_chart.png)
+
+5. Movies vs TV Shows – Yearly Analysis
+
+"Movies vs TV Shows Yearly" (outputs/movies_vs_tv_shows_yearly.png)
 
 📁 Project Folder Structure
 
@@ -162,9 +188,8 @@ Alok Kumar
 
 Data Analysis Internship Project
 
-GitHub: "alok8009k-tech" (https://github.com/alok8009k-tech)
-
-Project Repository: "Netflix Data Analysis" (https://github.com/alok8009k-tech/Netflix-Data-Analysis)
+- GitHub: "alok8009k-tech" (https://github.com/alok8009k-tech)
+- Project Repository: "Netflix Data Analysis" (https://github.com/alok8009k-tech/Netflix-Data-Analysis)
 
 ⭐ Acknowledgement
 
