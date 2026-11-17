@@ -161,16 +161,18 @@ Step 3: Install Required Libraries
 
 pip install -r requirements.txt
 
-Step 4: Run Python Scripts
+### Step 4: Run Python Scripts
 
 Execute the following scripts one by one:
 
+```bash
 python task1_data_cleaning.py
 python task2_content_analysis.py
 python task3_country_analysis.py
 python task4_trend_analysis.py
+```
 
-The generated reports, cleaned dataset, and visualizations are saved in the "outputs/" folder.
+The generated reports, cleaned dataset, and visualizations are saved in the `outputs/` folder.
 
 📈 Project Outcomes
 
