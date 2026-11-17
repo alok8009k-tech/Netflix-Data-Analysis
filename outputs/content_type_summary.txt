@@ -1,0 +1,7 @@
+NETFLIX CONTENT TYPE ANALYSIS - KEY FINDINGS
+============================================
+Total content records analyzed: 8790
+Movies: 6126 (69.69%)
+TV Shows: 2664 (30.31%)
+Most common content type: Movie (6126 titles, 69.69%)
+Difference between Movies and TV Shows: 3462 titles
