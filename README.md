@@ -100,30 +100,29 @@ Key Findings:
 - Unique Release Years: 74
 - Highest Content Count: 2018 (1,146 titles)
 
-📈 Data Visualizations
+## 📊 Data Visualizations
 
 The following charts were generated during the analysis to present the findings visually.
 
-1. Content Type Distribution – Pie Chart
+### 1. Content Type Distribution - Pie Chart
 
-"Content Type Distribution" (outputs/content_type_pie_chart.png)
+![Content Type Distribution](outputs/content_type_pie_chart.png)
 
-2. Content Type Distribution – Bar Chart
+### 2. Content Type Distribution - Bar Chart
 
-"Content Type Bar Chart" (outputs/content_type_bar_chart.png)
+![Content Type Bar Chart](outputs/content_type_bar_chart.png)
 
-3. Top 10 Countries Analysis
+### 3. Top 10 Countries Analysis
 
-"Top 10 Countries" (outputs/top_10_countries_chart.png)
+![Top 10 Countries](outputs/top_10_countries_chart.png)
 
-4. Release Year Trend Analysis
+### 4. Release Year Trend Analysis
 
-"Release Year Trend" (outputs/year_wise_trend_chart.png)
+![Release Year Trend](outputs/year_wise_trend_chart.png)
 
-5. Movies vs TV Shows – Yearly Analysis
+### 5. Movies vs TV Shows - Yearly Analysis
 
-"Movies vs TV Shows Yearly" (outputs/movies_vs_tv_shows_yearly.png)
-
+![Movies vs TV Shows Yearly](outputs/movies_vs_tv_shows_yearly.png)
 📁 Project Folder Structure
 
 Netflix-Data-Analysis/
